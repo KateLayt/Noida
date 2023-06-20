@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: particles arrow
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: ff1f3c31fb49a03469b44dc0f5d5e3b6, type: 3}
+    - {fileID: 21300000, guid: 687df450e7e95a24d99b235e583b03c3, type: 3}
+    - {fileID: 21300000, guid: 485cbc93a6204e643a4994b0715246e1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 687df450e7e95a24d99b235e583b03c3, type: 3}
+  - {fileID: 21300000, guid: ff1f3c31fb49a03469b44dc0f5d5e3b6, type: 3}
+  - {fileID: 21300000, guid: 485cbc93a6204e643a4994b0715246e1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u043F\u0430\u0440\u0442\u0438\u043A\u043B \u0433\u043E\u043B\u0443\u0431\u043E\u0439
+    2"
+  - "\u043F\u0430\u0440\u0442\u0438\u043A\u043B \u0433\u043E\u043B\u0443\u0431\u043E\u0439
+    1"
+  - "\u043F\u0430\u0440\u0442\u0438\u043A\u043B \u0433\u043E\u043B\u0443\u0431\u043E\u0439
+    3"
+  m_RenderDataMap: {}
+  m_Tag: particles arrow
+  m_IsVariant: 0

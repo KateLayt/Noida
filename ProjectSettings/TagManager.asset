@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Character
+  - Water
+  - UI
+  - Confiner
+  - Fight
+  - Enemies
+  - Environment
+  - Spells
+  - Instantiator
+  - Interractable
+  - Friends
+  - Mobs
+  - Wolf
+  - Dragspace
+  - Gamespace
+  - UIParticles
+  - Spawn
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Second to bg
+    uniqueID: 4097864057
+    locked: 0
+  - name: Effects
+    uniqueID: 3113500507
+    locked: 0
+  - name: Top of the world
+    uniqueID: 1807581811
+    locked: 0
